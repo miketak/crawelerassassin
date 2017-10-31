@@ -1,0 +1,36 @@
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/help/tutorials/exports/juriscode2.html: Tables extraction start
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/help/tutorials/exports/juriscode2.html: Table extraction successful
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser integrityCheck
+INFO: http://www.assess.co.polk.ia.us/web/help/tutorials/exports/juriscode2.html: Signature check: true
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/help/tutorials/exports/addresscode.html: Tables extraction start
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/help/tutorials/exports/addresscode.html: Table extraction successful
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser integrityCheck
+INFO: http://www.assess.co.polk.ia.us/web/help/tutorials/exports/addresscode.html: Signature check: true
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/inven/help/residence.html: Tables extraction start
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/inven/help/residence.html: Table extraction successful
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser integrityCheck
+INFO: http://www.assess.co.polk.ia.us/web/inven/help/residence.html: Signature check: true
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/inven/help/detached.html: Tables extraction start
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/inven/help/detached.html: Table extraction successful
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser integrityCheck
+INFO: http://www.assess.co.polk.ia.us/web/inven/help/detached.html: Signature check: true
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/help/tutorials/exports/occgroup.html: Tables extraction start
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/help/tutorials/exports/occgroup.html: Table extraction successful
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser integrityCheck
+INFO: http://www.assess.co.polk.ia.us/web/help/tutorials/exports/occgroup.html: Signature check: true
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/inven/help/csection.html: Tables extraction start
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser extractTables
+INFO: http://www.assess.co.polk.ia.us/web/inven/help/csection.html: Table extraction successful
+Oct 31, 2017 7:37:58 AM crawlerassassin.dommanipulation.HtmlParser integrityCheck
+INFO: http://www.assess.co.polk.ia.us/web/inven/help/csection.html: Signature check: true
